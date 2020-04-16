@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DS/Downloads/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DS/Downloads/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DS/Downloads/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DS/Downloads/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/json-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/json-path-4.2.0-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/json-path-4.2.0-deps/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/json-path-4.2.0-deps/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Work/Downloads/Rest Assured jars/json-path-4.2.0-dist/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
